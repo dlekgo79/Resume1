@@ -19,10 +19,28 @@
 **************************
 ## 사용 언어
 1. java
+
+![java icon](/java.jpg)
+<img src=java.png width=100 height=100>
+
 2. C
+3.  
+![C icon](/C.jpg)
+<img src=C.png width=100 height=100>
+
 3. python
-4. R
-5. html
+![python icon](/python.jpg)
+<img src=python.png width=100 height=100>
+
+4. javascript
+
+![JS icon](/JS.jpg)
+<img src=JS.png width=100 height=100>
+
+
+
+
+
 *************************
  ## 소속
  한림대학교 창업 동아리 TAG  
