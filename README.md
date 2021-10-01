@@ -18,23 +18,16 @@
 * 데이터베이스
 **************************
 ## 사용 언어
-1. java
-
-![java icon](/java.jpg)
+1. java   
 <img src=java.png width=100 height=100>
 
-2. C
-3.  
-![C icon](/C.jpg)
+2. C   
 <img src=C.png width=100 height=100>
 
-3. python
-![python icon](/python.jpg)
+3. python   
 <img src=python.png width=100 height=100>
 
-4. javascript
-
-![JS icon](/JS.jpg)
+4. javascript   
 <img src=JS.png width=100 height=100>
 
 
