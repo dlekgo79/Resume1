@@ -52,13 +52,13 @@ github address: [dlekgo79][github]
 ## 연수  
 **2020년 안드로이드 스튜디오를 활용하여 모바일 앱 제작하기(2020~2020)**
 안드로이드 스튜디오를 통하여 일기장 어플을 제작함  
-<img src=diary.png width=100 height=100>
+<img src=diary.png width=200 height=200>
 
 
 **2021년 글로벌 SW 연수(2021.9~2021.9)**  
 
 하계 YORK 대학 연수를 통해 라즈베리차이를 활용한 SmartMirror를 제작  
-<img src=york.png width=100 height=100>
+<img src=york.png width=200 height=200>
 
 **2021년 강원 테크 인공지능 교육(2021.9~2021.9)**
 
