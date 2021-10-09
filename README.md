@@ -88,12 +88,13 @@ github address: [dlekgo79][github]
 <img src=diary.png  height=200>
 <img src=AND.pdf  height=200>
 
-**2021년 글로벌 SW 연수(2021.9~2021.9)**  
+**2021년 글로벌 SW 연수(2021.9~2021.9)**   
+<img src=york2.png height=50>   
 하계 YORK 대학 연수를 통해 라즈베리차이를 활용한 SmartMirror를 제작  
 스마트의 전반적인 부분을 영국 교수님과 의사소통을 하며 배움  
 
 <img src=york.png height=200>
-<img src=york2.png height=200>
+
 
 
 **2021년 강원 테크 인공지능 교육(2021.9~2021.9)**
